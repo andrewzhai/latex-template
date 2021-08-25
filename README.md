@@ -14,6 +14,21 @@ Credits go to :
 
 ## Basics
 
+### Loading Public Notebooks Directly from GitHub
+
+For the better demonstartion, I recommand you use google colab to excute the scripts
+
+Colab can load public github notebooks directly, with no required authorization step.
+
+For example, consider the notebook at this address: https://github.com/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb.
+
+The direct colab link to this notebook is: https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb.
+
+To generate such links in one click, you can use the [Open in Colab](https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo) Chrome extension.
+
+
+
+
 You need a standard (full) LaTeX distribution:
 
 + Windows: [MikTeX](https://miktex.org/download)
